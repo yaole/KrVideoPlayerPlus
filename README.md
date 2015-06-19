@@ -47,9 +47,8 @@
 </code></pre>
 
 #小知识
-//隐藏navigation tabbar 电池栏
-//---------------------------
-View controller-based status bar appearance    NO
+_隐藏navigation tabbar 电池栏_
+_View controller-based status bar appearance    NO_
 <pre><code>
 - (void)toolbarHidden:(BOOL)Bool{
     self.navigationController.navigationBar.hidden = Bool;
