@@ -1,6 +1,6 @@
 # KrVideoPlayerPlus
-根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求
-[KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer)
+根据36Kr开源的[KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求
+
 
 ![展示图片](https://github.com/835239104/KrVideoPlayerPlus/blob/master/KrVideo.gif?raw=true)
 #必要框架
